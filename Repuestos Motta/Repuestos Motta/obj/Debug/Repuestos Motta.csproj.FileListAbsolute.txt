@@ -14,3 +14,19 @@ C:\Users\oswal\Documents\Visual Studio 2015\Projects\Repuestos Motta\Repuestos M
 C:\Users\oswal\Documents\Visual Studio 2015\Projects\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos_Motta.MenuPrincipal.resources
 C:\Users\oswal\Documents\Visual Studio 2015\Projects\Repuestos Motta\Repuestos Motta\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
 C:\Users\oswal\Documents\Visual Studio 2015\Projects\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos_Motta.Form1.resources
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\bin\Debug\Repuestos Motta.exe.config
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos Motta.exe
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos Motta.pdb
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\bin\Debug\Repuestos Motta.exe
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\bin\Debug\Repuestos Motta.pdb
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos Motta.csprojResolveAssemblyReference.cache
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos_Motta.Form1.resources
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos_Motta.Login.resources
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos_Motta.MenuPrincipal.resources
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos_Motta.Properties.Resources.resources
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos Motta.csproj.GenerateResource.Cache
