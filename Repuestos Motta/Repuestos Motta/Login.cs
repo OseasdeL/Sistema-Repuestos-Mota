@@ -108,5 +108,15 @@ namespace Repuestos_Motta
             Form1 f1 = new Form1();
             f1.Show();
         }
+
+        private void panel1_Paint_1(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void bunifuImageButton1_Click_2(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
