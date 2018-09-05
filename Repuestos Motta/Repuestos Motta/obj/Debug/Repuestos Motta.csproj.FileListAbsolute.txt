@@ -30,3 +30,5 @@ C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos M
 C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos_Motta.MenuPrincipal.resources
 C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos_Motta.Properties.Resources.resources
 C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\obj\Debug\Repuestos Motta.csproj.GenerateResource.Cache
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\oswal\Documents\UMG 10mo\Proyecto Seminario\Repuestos Motta\Repuestos Motta\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll

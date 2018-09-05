@@ -41,5 +41,24 @@ namespace Repuestos_Motta
         {
 
         }
+
+        private void bunifuImageButton3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuImageButton3_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
+            Login l = new Login();
+            l.Show();
+        }
+
+        private void bunifuImageButton1_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
+            Login l = new Login();
+            l.Show();
+        }
     }
 }
